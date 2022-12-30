@@ -1,8 +1,10 @@
 ### Hi there 👋, I am Abdulhakeem Abdullahi
 I am also referred to as Professor by my fans and some call me Worldwide due to my research expertise
 
-![Abdulhakeems's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDULLAHG87&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align = "left" width = 47% src ="https://github-readme-stats.vercel.app/api?username=ABDULLAHG87&show_icons=true&theme=radical"/>
+<img align = "left" width = 47% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAHG87&layout=compact"/> 
+<!--[Abdulhakeems's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDULLAHG87&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAHG87&layout=compact)](https://github.com/ABDULLAHG87/github-readme-stats)/>
 <!--
 **ABDULLAHG87/ABDULLAHG87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
