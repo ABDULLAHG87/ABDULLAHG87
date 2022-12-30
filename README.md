@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Abdulhakeem Abdullahi
 I am also referred to as Professor by my fans and some call me Worldwide due to my research expertise
-
+![Abdulhakeems's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDULLAHG87&show_icons=true&theme=radical)
 <!--
 **ABDULLAHG87/ABDULLAHG87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
