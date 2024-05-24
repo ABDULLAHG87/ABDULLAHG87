@@ -6,35 +6,30 @@ I'm a passionate and innovative Software Engineer with a keen interest in Softwa
 
 - **Languages:** C, C++, Python, JavaScript
 - **Frameworks:** [List of frameworks you're experienced with]
-- **Tools & Technologies:** [List of tools and technologies you've worked with]
 
 ## 🔧 Technologies & Tools
 
 
-
 ## 🌱 Currently Learning
 
-I'm currently diving deeper into [technology or skill you're learning], and I'm excited about [specific project or goal related to your learning].
+I am currently embarking on a *"30 days of JavaScript Challenge"*
 
 ## 💼 Experience
 
-### [Current Job Title] at [Current Company]
-- [Brief description of your role and responsibilities]
-
-### [Previous Job Title] at [Previous Company]
-- [Brief description of your role and achievements]
+### ATM Field Engineer at Inlaks Computer, Ogba Lagos
+- Repair and Maintenance of Automated Teller Machine ( Hyosung, NCR)
 
 ## 🌐 Projects
 
 Here are a few projects I'm proud of:
 
-- [Project 1](link to project) - Short description
-- [Project 2](link to project) - Short description
-- [Project 3](link to project) - Short description
+- [LevelMeUp](https://levelme-up.onrender.com/) - Software Engineering Companion Website 
+
 
 ## 📫 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](your LinkedIn profile link) and [Twitter](your Twitter profile link).
+Feel free to connect with me on 
+* [LinkedIn](https://www.linkedin.com/in/abdullahi-abdulhakeem-516b5aab/)
 
 ## 🤝 Open to Collaboration
 
@@ -42,7 +37,7 @@ I'm open to collaborating on innovative projects. If you have an interesting ide
 
 ## 🚴 Hobbies
 
-Apart from coding, I enjoy [mention a hobby or interest outside of work]. Let's chat about it!
+I love Research Work, content creation and Ultralearning
 
-Thanks for stopping by! 😊
+
 
