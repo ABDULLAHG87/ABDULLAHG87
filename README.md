@@ -12,8 +12,9 @@ I'm a passionate and innovative Software Engineer with a keen interest in Softwa
 
 ## 🌱 Currently Learning
 
-I am currently embarking on a *"30 days of JavaScript Challenge"*
-
+I am currently embarking on the following:
+* *"30 days of JavaScript Challenge"*
+* *"Building an Ultralearning Framework for Software Engineers"*
 ## 💼 Experience
 
 ### ATM Field Engineer at Inlaks Computer, Ogba Lagos
