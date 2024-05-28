@@ -10,7 +10,7 @@ I'm a passionate and innovative Software Engineer with a keen interest in Softwa
 ## 🔧 Technologies & Tools
 
 
-## 🌱 Currently Learning
+## 🌱 Currently Learnings / Projects
 
 I am currently embarking on the following:
 * *"30 days of JavaScript Challenge"*
@@ -20,7 +20,7 @@ I am currently embarking on the following:
 ### ATM Field Engineer at Inlaks Computer, Ogba Lagos
 - Repair and Maintenance of Automated Teller Machine ( Hyosung, NCR)
 
-## 🌐 Projects
+## 🌐  Current Projects
 
 Here are a few projects I'm proud of:
 
