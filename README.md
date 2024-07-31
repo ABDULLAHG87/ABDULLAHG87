@@ -5,7 +5,7 @@ I'm a passionate and innovative Software Engineer with a keen interest in Softwa
 ## 🚀 Skills
 
 - **Languages:** C, C++, Python, JavaScript
-- **Frameworks:** [List of frameworks you're experienced with]
+- **Frameworks:** Flask, ExpressJs
 
 ## 🔧 Technologies & Tools
 
@@ -15,6 +15,7 @@ I'm a passionate and innovative Software Engineer with a keen interest in Softwa
 I am currently embarking on the following:
 * *"30 days of JavaScript Challenge"*
 * *"Building an Ultralearning Framework for Software Engineers"*
+* *"QZPlatform - Enhanced Assessment Platform"*
 
 ## 💼 Experience
 
@@ -26,7 +27,7 @@ I am currently embarking on the following:
 Here are a few projects I'm proud of:
 
 - [LevelMeUp](https://levelme-up.onrender.com/) - Software Engineering Companion Website 
-
+- [HabitatT](https://habitatt-backend.onrender.com) - Real Estate Communication Management System Backend Development API"
 
 ## 📫 Let's Connect!
 
