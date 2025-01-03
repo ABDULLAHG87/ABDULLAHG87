@@ -29,10 +29,10 @@ Here are a few projects I'm proud of:
 
 - [LevelMeUp](https://levelme-up.onrender.com/) - Software Engineering Companion Website 
 - [HabitatT](https://habitatt-backend.onrender.com) - Real Estate Communication Management System Backend Development API"
--
-[Qzplatform](https://qzplatform.vercel.app) - QzPlatform  Enhanced Assessment Platform
--
-[Safelink](https://joinsafelink.com) - Marketplace for your product
+
+- [Qzplatform](https://qzplatform.vercel.app) - QzPlatform  Enhanced Assessment Platform
+
+- [Safelink](https://joinsafelink.com) - Marketplace for your product
 
 ## 📫 Let's Connect!
 
