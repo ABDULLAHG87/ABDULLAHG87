@@ -4,8 +4,9 @@ I'm a passionate and innovative Software Engineer with a keen interest in Softwa
 
 ## 🚀 Skills
 
-- **Languages:** C, C++, Python, JavaScript
-- **Frameworks:** Flask, ExpressJs
+- **Languages:** C, C++, Python, JavaScript, TypeScript
+- **Frameworks:** Flask, ExpressJs, NestJS
+- **DevOps for Backend**: Version Control (Git and GitHub), Linux Fundamentals
 
 ## 🔧 Technologies & Tools
 
@@ -17,6 +18,7 @@ I am currently embarking on the following:
 * *"Building an Ultralearning Framework for Software Engineers"*
 * *"QZPlatform - Enhanced Assessment Platform"*
 * *"Certifyeet - Certificate Generator Platform"*
+* *"Rydr - Car Hailing Transportation App"*
 
 ## 💼 Experience
 
